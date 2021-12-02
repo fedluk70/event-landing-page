@@ -1,0 +1,17 @@
+
+.header {
+    display: grid;
+    border-color: lawngreen;
+  }
+   
+.box1{     
+    display: grid;
+}
+.box2{
+    display: grid;
+}
+.footer {
+    display: grid;
+    column-gap: 20px;
+
+  }
